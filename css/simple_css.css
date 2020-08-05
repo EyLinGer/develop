@@ -1,0 +1,16 @@
+h1
+{
+text-align: center;
+text-transform: uppercase;
+color: gray;
+}
+p, a
+{
+text-indent: 50px;
+text-align:justify;
+letter-spacing:3px;
+}
+a
+{
+text-decoration:none;
+}
